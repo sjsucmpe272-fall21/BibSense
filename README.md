@@ -28,18 +28,18 @@ https://www.programmableweb.com/api/sygic-travel-rest-api-v12
 
 **Introduction**:
 
-One of the key factors in controlling covid-19 is early detection; both to control the virus from spreading and to prevent it into evolving to fatal acute respiratory distress syndrome (ARDS) in the infected patient.The diagnosis of COVID-19 primarily depends on detection of the viral nucleic acid by real time reverse transcription polymerase chain reaction (RT-PCR), which is considered the gold standard in Covid-19 detection. However, the results for RT-PCR tests can take anywhere between 1-7 days depending on various factors such as location, infrastructure, management and so on. During the peak of the pandemic in India there were reports of 7-10 days of delay in diagnosis due to a big rush in the number of people going for tests[1]. Further, RT-PCR can detect Covid-19 only when only when the virus is in the nose or throat (from day 1 to 7), the virus can settle deep in the lungs and become undetectable.[2] Combined with the fact the new variants may emerge that will be undectable through standard polymerase chain reaction[3], we need to have other diagnostic tools in our arsenal to augment RT-PCR.
+One of the key factors in controlling covid-19 is early detection; both to control the virus from spreading and to prevent it from evolving to fatal acute respiratory distress syndrome (ARDS) in the infected patient. The diagnosis of COVID-19 primarily depends on detection of the viral nucleic acid by real-time reverse transcription-polymerase chain reaction (RT-PCR), which is considered the gold standard in Covid-19 detection. However, the results for RT-PCR tests can take anywhere between 1-7 days depending on various factors such as location, infrastructure, management, and so on. During the peak of the pandemic in India, there were reports of 7-10 days of delay in diagnosis due to a big rush in the number of people going for tests[1]. Further, RT-PCR can detect Covid-19 only when the virus is in the nose or throat (from day 1 to 7), the virus can settle deep in the lungs and become undetectable.[2] Combined with the fact the new variants may emerge that will be undetectable through standard polymerase chain reaction[3], we need to have other diagnostic tools in our arsenal to augment RT-PCR.
 
 **Abstract**:
 
-CT-scan(Computed tomography scan) is a imaging technique that gives quick results within 20 minutes. Observed by an Radiologist, lung CT-scans provided accuracy between 80-95% in diagnosing covid-19[4]. It can also correctly detect covid-19 missed by RT-PCR tests. Hence, CT scan is a powerful augumentive tool in Covid-19 detection.  We intend to use AI and machine learning algorithms to identify abnormal patterns associated with covid-19 and distinguish it from other pulmonary disorders and normal cases.
+CT scan (Computed tomography scan) is an imaging technique that gives quick results within 20 minutes. Observed by a Radiologist, lung CT-scans provided accuracy between 80-95% in diagnosing covid-19[4]. It can also correctly detect covid-19 missed by RT-PCR tests. Hence, CT scan is a powerful augmentative tool in Covid-19 detection.  We intend to use AI and machine learning algorithms to identify abnormal patterns associated with covid-19 and distinguish them from other pulmonary disorders and normal cases.
 
-**Aproach**:
+**Approach**:
 
-We will combine and clean the dataset from different source and prepare it for training. The data set will be classified into four categories: covid-19, normal, viral pnuemonia and lung opacity and stored in dataframes. We intend to use Pytorch(YOLOv5),Tesnsorflow and Convolutional Neural Networks(CNN) algorithms to train the model. Finally, we will measure the accuracy, sensitivity and specificity of the model against a sample dataset. The user will have a front end based on FLASK where he can upload the chest CT-scan image and view the results.
+We will combine and clean the dataset from the different sources mentioned below and prepare it for training. The data set will be classified into four categories: covid-19, normal, viral pneumonia and lung opacity and stored in dataframes. We intend to use Pytorch(YOLOv5), Tesnsorflow, and Convolutional Neural Networks(CNN) algorithms to train the model. Finally, we will measure the accuracy, sensitivity, and specificity of the model against a sample dataset. The user will have a front end based on FLASK where he can upload the chest CT-scan image and view the results.
 
 **Persona**
-Any user who wants to upload CT-scan.
+Any user who wants to upload a CT-scan.
 
 **Datasets:**
 https://bimcv.cipf.es/bimcv-projects/bimcv-covid19/#1590858128006-9e640421-6711
