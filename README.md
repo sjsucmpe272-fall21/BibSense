@@ -43,10 +43,10 @@ We will combine and clean the dataset from the different sources mentioned below
 Any user who wants to upload a CT-scan.
 
 ### Datasets:
-https://bimcv.cipf.es/bimcv-projects/bimcv-covid19/#1590858128006-9e640421-6711
-https://sirm.org/category/senza-categoria/covid-19/
-https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6ACUZJ
-https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
+- https://bimcv.cipf.es/bimcv-projects/bimcv-covid19/#1590858128006-9e640421-6711
+- https://sirm.org/category/senza-categoria/covid-19/
+- https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6ACUZJ
+- https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
 
 
 ### References:
