@@ -34,7 +34,7 @@ One of the key factors in controlling covid-19 is early detection; both to contr
 CT-scan(Computed tomography scan) is a imaging technique that gives quick results within 20 minutes. Observed by an Radiologist, lung CT-scans provided accuracy between 80-95% in diagnosing covid-19[4]. It can also correctly detect covid-19 missed by RT-PCR tests. Hence, CT scan is a powerful augumentive tool in Covid-19 detection.  We intend to use AI and machine learning algorithms to identify abnormal patterns associated with covid-19 and distinguish it from other pulmonary disorders and normal cases.
 
 **Aproach**
-We will combine and clean the dataset from different source and prepare it for training. We intend to use Pytorch(YOLOv5),Tesnsorflow and Convolutional Neural Networks(CNN) algorithms to train the model. Finally, we will measure the accuracy, sensitivity and specificity of the model against a sample dataset. The user will have a front end based on FLASK where he can upload the chest CT-scan image and view the results.
+We will combine and clean the dataset from different source and prepare it for training. The data set will be classified into four categories: covid-19, normal, viral pnuemonia and lung opacity and stored in dataframes. We intend to use Pytorch(YOLOv5),Tesnsorflow and Convolutional Neural Networks(CNN) algorithms to train the model. Finally, we will measure the accuracy, sensitivity and specificity of the model against a sample dataset. The user will have a front end based on FLASK where he can upload the chest CT-scan image and view the results.
 
 **Persona**
 Any user who wants to upload CT-scan.
@@ -51,3 +51,4 @@ https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
 [2] https://www.clinicaloncology.com/COVID-19/Article/07-20/False-Negatives-Found-If-COVID-19-Testing-Done-Too-Soon/58781
 [3] https://www.fda.gov/medical-devices/letters-health-care-providers/genetic-variants-sars-cov-2-may-lead-false-negative-results-molecular-tests-detection-sars-cov-2
 [4] https://pubmed.ncbi.nlm.nih.gov/33814777/
+
