@@ -4,7 +4,7 @@
 ### 1. Introduction to the problem statement
 A web application analyzes the popularity of travel destinations and uses machine learning to predict the next visitor bloom.
 
-### 2. Abstract (rough draft)
+### 2. Abstract 
 COVID-19 has taken a huge toll on the tourism industry due to travel restrictions and public health concerns. As COVID vaccination rates continue to increase, more and more people are willing to travel after spending a year at home.
 
 But to what extent has tourism recovered? What is the volume of visitors that local businesses can expect? And what if there are some tourists who want to make a trip but still concern about the crowd? All these problems can be solved by this application.
