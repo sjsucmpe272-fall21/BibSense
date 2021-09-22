@@ -37,7 +37,10 @@ CT scan (Computed tomography scan) is an imaging technique that gives quick resu
 
 ### Approach:
 
-We will combine and clean the dataset from the different sources mentioned below and prepare it for training. The data set will be classified into four categories: covid-19, normal, viral pneumonia and lung opacity and stored in dataframes. We intend to use Pytorch(YOLOv5), Tesnsorflow, and Convolutional Neural Networks(CNN) algorithms to train the model. Finally, we will measure the accuracy, sensitivity, and specificity of the model against a sample dataset. The user will have a front end based on FLASK where he can upload the chest CT-scan image and view the results.
+- Combine and clean the dataset from the different sources mentioned below and prepare it for training. The data set will be classified into four categories: covid-19, normal, viral pneumonia and lung opacity and stored in dataframes. 
+- Use Pytorch(YOLOv5), Tesnsorflow, and Convolutional Neural Networks(CNN) algorithms to train the model.
+- Measure the accuracy, sensitivity, and specificity of the model against a sample dataset. 
+- The user will have a front end based on FLASK where he can upload the chest CT-scan image and view the results.
 
 ### Persona:
 Any user who wants to upload a CT-scan.
