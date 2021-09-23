@@ -1,6 +1,6 @@
 # Team-Project-11
 
-**Proposal 1: Runner’s Bib number tagging: Sports Event photography**
+##**Proposal 1: Runner’s Bib number tagging: Sports Event photography**
 
 **1. Introduction to the problem statement**
 
@@ -13,7 +13,8 @@ Endurance sports like track and field, running, biking, and triathlons, should a
 We propose an automatic system for runner’s bib number recognition in natural image collections covering sporting events such as marathons. A runner’s Bib is typically a piece of durable paper bearing a number as well as the event/sponsor logo. The Bib, usually pinned onto the shirt, is used to identify the runner among thousands of others during the event. Our system receives a set of natural images taken in the sport events and outputs the participants’ bib number, which is in turn used to map it with the Runner personal details like Email and Contact from the registration database. These Images can now be directly sent across to the Runner via email at a certain cost each.
 
 
-**3. Approach** <br/>
+**3. Approach**  <br/>
+
 •	EAST text Extractor + Tesseract OCR Engine <br/>
 •	Image Processing using OpenCV <br/>
 •	Segmentation using deep learning (Mask RCNN, CNN) <br/>
@@ -21,12 +22,12 @@ We propose an automatic system for runner’s bib number recognition in natural 
 •	Cloud-based APIs from Google (Vision), AWS (Rekognition) or Microsoft Azure: <br/>
 
 
-**4. Persona**
+**4. Persona**  <br/>
+
 •	Sport event photographers <br/>
 •	Runners and participants <br/>
 •	Merchandizes and event sponsor advertising <br/>
 
-<br/>
 
 **5. Dataset links** <br/>
 https://sjsu0-my.sharepoint.com/:x:/r/personal/sachith_gandham_sjsu_edu/_layouts/15/guestaccess.aspx?e=Xd325F&share=EVV3ABsHgfVGjdA6uaHKAncBAeR4T427mFqsVNOE6g8GjQ&wdLOR=c1097316C-3C67-134D-9C91-B3935E248B4F
