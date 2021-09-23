@@ -5,12 +5,12 @@
 ## **1. Introduction to the problem statement**
 
 
-While many underestimate what it takes to get tagged photos into email inboxes, this team identifies this as a problem statement which could indeed be a viable solution for sport event photographers to generate Ecommerce. By selling the pictures, they click during the sporting event the photographers could generate a source to their income, But the only problem is to identify the participants in the photos with their personal details.  
+While many underestimate what it takes to get tagged photos into email inboxes, this team identifies this as a problem statement that can be translated into a viable solution for sport event photographers to generate E-commerce. By selling the pictures, they click during the sporting events the photographers can generate a source for their income, But the only problem is to identify the participants in the photos with their personal details.
 Endurance sports like track and field, running, biking, and triathlons, should also embrace the benefits that are put forth by Machine Learning. By using Deep Learning algorithms, we can resolve the problem of tagging the runner’s photos directly to her/his email in order to promote Ecommerce for sporting event photography.
 
 ## **2. Abstract**
 
-We propose an automatic system for runner’s bib number recognition in natural image collections covering sporting events such as marathons. A runner’s Bib is typically a piece of durable paper bearing a number as well as the event/sponsor logo. The Bib, usually pinned onto the shirt, is used to identify the runner among thousands of others during the event. Our system receives a set of natural images taken in the sport events and outputs the participants’ bib number, which is in turn used to map it with the Runner personal details like Email and Contact from the registration database. These Images can now be directly sent across to the Runner via email at a certain cost for each photograph.
+We propose an automatic system for runner’s bib number recognition in natural image collections covering sporting events such as marathons. A runner’s Bib is typically a piece of durable paper bearing a number as well as the event/sponsor logo. The Bib, usually pinned onto the shirt, is used to identify the runner among thousands of others during the event. Our system receives a set of natural images taken in the sports events and outputs the participants’ bib number, which is in turn used to map it with the Runner personal details like Email and Contact from the registration database. These Images can now be directly sent across to the Runner via email at a certain cost for each photograph.
 
 
 ## **3. Approach**  <br/>
@@ -60,13 +60,14 @@ In this web application, we will analyze tourist data to obtain destination popu
 ### 5. Dataset links
 https://www.programmableweb.com/api/sygic-travel-rest-api-v12
 
+<br/>
+<br/>
 
 ## Proposal 3: Covid-19 detection based on CT scans
 
 ### Introduction:
 
-One of the key factors in controlling covid-19 is early detection; both to control the virus from spreading and to prevent it from evolving to fatal acute respiratory distress syndrome (ARDS) in the infected patient. The diagnosis of COVID-19 primarily depends on detection of the viral nucleic acid by real-time reverse transcription-polymerase chain reaction (RT-PCR), which is considered the gold standard in Covid-19 detection. However, the results for RT-PCR tests can take anywhere between 1-7 days depending on various factors such as location, infrastructure, management, and so on. During the peak of the pandemic in India, there were reports of 7-10 days of delay in diagnosis due to a big rush in the number of people going for tests[1]. Further, RT-PCR can detect Covid-19 only when the virus is in the nose or throat (from day 1 to 7), the virus can settle deep in the lungs and become undetectable.[2] Combined with the fact the new variants may emerge that will be undetectable through standard polymerase chain reaction[3], we need to have other diagnostic tools in our arsenal to augment RT-PCR.
-One of the alternate tools that has emerged in the battle are CT-scans.
+One of the key factors in controlling covid-19 is early detection; both to control the virus from spreading and to prevent it from evolving to fatal acute respiratory distress syndrome (ARDS) in the infected patient. The diagnosis of COVID-19 primarily depends on detection of the viral nucleic acid by real-time reverse transcription-polymerase chain reaction (RT-PCR), which is considered the gold standard in Covid-19 detection. However, the results for RT-PCR tests can take anywhere between 1-7 days depending on various factors such as location, infrastructure, management, and so on. During the peak of the pandemic in India, there were reports of 7-10 days of delay in diagnosis due to a big rush in the number of people going for tests[1]. Further, RT-PCR can detect Covid-19 only when the virus is in the nose or throat (from day 1 to 7), the virus can settle deep in the lungs and become undetectable.[2] Combined with the fact the new variants may emerge that will be undetectable through standard polymerase chain reaction[3], we need to have other diagnostic tools in our arsenal to augment RT-PCR. One of the alternate tools that has emerged in the battle are CT-scans. We propose to automate the interpretation of the results obtained by CT scans through Machine learning algorithms.
 
 ### Abstract:
 
