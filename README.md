@@ -91,8 +91,8 @@ Any user who wants to upload a CT-scan.
 
 
 ### References:
-[1] https://www.newindianexpress.com/states/karnataka/2021/may/04/7-10-day-delay-in-rt-pcr-results-makes-people-desperate-2298170.html
-[2] https://www.clinicaloncology.com/COVID-19/Article/07-20/False-Negatives-Found-If-COVID-19-Testing-Done-Too-Soon/58781
-[3] https://www.fda.gov/medical-devices/letters-health-care-providers/genetic-variants-sars-cov-2-may-lead-false-negative-results-molecular-tests-detection-sars-cov-2
+[1] https://www.newindianexpress.com/states/karnataka/2021/may/04/7-10-day-delay-in-rt-pcr-results-makes-people-desperate-2298170.html <br/>
+[2] https://www.clinicaloncology.com/COVID-19/Article/07-20/False-Negatives-Found-If-COVID-19-Testing-Done-Too-Soon/58781 <br/>
+[3] https://www.fda.gov/medical-devices/letters-health-care-providers/genetic-variants-sars-cov-2-may-lead-false-negative-results-molecular-tests-detection-sars-cov-2 <br/>
 [4] https://pubmed.ncbi.nlm.nih.gov/33814777/
 
