@@ -1,14 +1,18 @@
 # Team-Project-11
 
-**Proposal 1: Runner’s Bib number tagging: Sports Event photography** <br/>
-**1. Introduction to the problem statement**<br/>
+**Proposal 1: Runner’s Bib number tagging: Sports Event photography**
+
+**1. Introduction to the problem statement**
+
+
 While many underestimate what it takes to get tagged photos into email inboxes, this team identifies this as a problem statement which could indeed be a viable solution for sport event photographers to generate Ecommerce. By selling the pictures, they click during the sporting event the photographers could generate a source to their income, But the only problem is to identify the participants in the photos with their personal details.  
 Endurance sports like track and field, running, biking, and triathlons, should also embrace the benefits that are put forth by Machine Learning. By using Deep Learning algorithms, we can resolve the problem of tagging the runner’s photos directly to his email in order to promote Ecommerce for sporting event photography.
-<br/>
-**2. Abstract ** <br/>
+
+**2. Abstract**
+
 We propose an automatic system for runner’s bib number recognition in natural image collections covering sporting events such as marathons. A runner’s Bib is typically a piece of durable paper bearing a number as well as the event/sponsor logo. The Bib, usually pinned onto the shirt, is used to identify the runner among thousands of others during the event. Our system receives a set of natural images taken in the sport events and outputs the participants’ bib number, which is in turn used to map it with the Runner personal details like Email and Contact from the registration database. These Images can now be directly sent across to the Runner via email at a certain cost each.
 
-<br/>
+
 **3. Approach** <br/>
 •	EAST text Extractor + Tesseract OCR Engine <br/>
 •	Image Processing using OpenCV <br/>
@@ -16,8 +20,8 @@ We propose an automatic system for runner’s bib number recognition in natural 
 •	Object Detection using deep learning <br/>
 •	Cloud-based APIs from Google (Vision), AWS (Rekognition) or Microsoft Azure: <br/>
 
-<br/>
-**4. Persona** <br/>
+
+**4. Persona**
 •	Sport event photographers <br/>
 •	Runners and participants <br/>
 •	Merchandizes and event sponsor advertising <br/>
@@ -26,7 +30,6 @@ We propose an automatic system for runner’s bib number recognition in natural 
 
 **5. Dataset links** <br/>
 https://sjsu0-my.sharepoint.com/:x:/r/personal/sachith_gandham_sjsu_edu/_layouts/15/guestaccess.aspx?e=Xd325F&share=EVV3ABsHgfVGjdA6uaHKAncBAeR4T427mFqsVNOE6g8GjQ&wdLOR=c1097316C-3C67-134D-9C91-B3935E248B4F
-![image](https://user-images.githubusercontent.com/32219718/134437610-b09102f7-3660-4397-98bb-dda7d1eb4ca0.png)
 
 <br/>
 <br/>
