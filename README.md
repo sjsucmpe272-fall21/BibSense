@@ -26,8 +26,7 @@ We propose an automatic system for runner’s bib number recognition in natural 
 •	Merchandizes and event sponsor advertising <br/>
 
 ### Dataset link <br/>
-
-https://sjsu0-my.sharepoint.com/:x:/r/personal/sachith_gandham_sjsu_edu/_layouts/15/guestaccess.aspx?e=Xd325F&share=EVV3ABsHgfVGjdA6uaHKAncBAeR4T427mFqsVNOE6g8GjQ&wdLOR=c1097316C-3C67-134D-9C91-B3935E248B4F
+https://sjsu0-my.sharepoint.com/:f:/g/personal/adarsh_narasimhamurthy_sjsu_edu/EsmfJ8uHOGtCqzoax5R8nQgBt2sDICzrEYo-DKEUPSPJaQ?e=49QtQe
 
 <br/>
 <br/>
