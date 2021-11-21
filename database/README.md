@@ -12,7 +12,7 @@ open http://localhost:3000/ the page will show current image information in data
 hit query button and enter the bib number you want to query, it will display a prompt which shows the image names and image links.
 
 ### rds info
-  databse: postgres\
+  databse: AWS RDS postgres\
   user: 'bibsense',\
   host: 'team11bibsense.ckmsibai0sqs.us-east-2.rds.amazonaws.com',\
   database: 'bib_sense',\
