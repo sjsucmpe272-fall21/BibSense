@@ -1,0 +1,688 @@
+ GPU isn't used 
+ Used AVX 
+ Used FMA & AVX2 
+mini_batch = 1, batch = 1, time_steps = 1, train = 0 
+
+ seen 64, trained: 16 K-images (0 Kilo-batches_64) 
+ Error: in the file data/coco.names number of names 80 that isn't equal to classes=1 in the file cfg/yolov3_custom.cfg 
+folder input=test_images/ and output=output/images/
+Start processing test_images/IMG_6688-X3.jpg
+test_images/IMG_6688-X3.jpg: Predicted in 1887.375000 milli-seconds.
+bib: 70.690094%	left_x:  814	top_y:  477	width:   58	height:   39
+End
+Start processing test_images/IMG_6689-X3.jpg
+test_images/IMG_6689-X3.jpg: Predicted in 1904.239000 milli-seconds.
+bib: 75.568230%	left_x:  655	top_y:  546	width:   66	height:   35
+End
+Start processing test_images/IMG_6692-X3.jpg
+test_images/IMG_6692-X3.jpg: Predicted in 1963.664000 milli-seconds.
+bib: 36.795170%	left_x:  899	top_y:  359	width:   75	height:   34
+End
+Start processing test_images/IMG_6695-X3.jpg
+test_images/IMG_6695-X3.jpg: Predicted in 2356.278000 milli-seconds.
+bib: 79.473785%	left_x:  707	top_y:  340	width:  107	height:   48
+End
+Start processing test_images/IMG_6699-X3.jpg
+test_images/IMG_6699-X3.jpg: Predicted in 2525.011000 milli-seconds.
+bib: 58.509464%	left_x: 1064	top_y:  404	width:   98	height:   41
+End
+Start processing test_images/IMG_6705-X3.jpg
+test_images/IMG_6705-X3.jpg: Predicted in 2026.430000 milli-seconds.
+bib: 53.059673%	left_x:  682	top_y:  372	width:   67	height:   54
+End
+Start processing test_images/IMG_6710-X3.jpg
+test_images/IMG_6710-X3.jpg: Predicted in 1872.669000 milli-seconds.
+bib: 65.871826%	left_x:  781	top_y:  376	width:   52	height:   38
+End
+Start processing test_images/IMG_6711-X3.jpg
+test_images/IMG_6711-X3.jpg: Predicted in 1978.530000 milli-seconds.
+bib: 32.371159%	left_x:  883	top_y:  380	width:   89	height:   54
+End
+Start processing test_images/IMG_6716-X3.jpg
+test_images/IMG_6716-X3.jpg: Predicted in 1667.246000 milli-seconds.
+bib: 37.481651%	left_x:  774	top_y:  417	width:   57	height:   33
+End
+Start processing test_images/IMG_6720-X3.jpg
+test_images/IMG_6720-X3.jpg: Predicted in 1741.235000 milli-seconds.
+bib: 87.340973%	left_x:  656	top_y:  352	width:   86	height:   47
+End
+Start processing test_images/IMG_6724-X3.jpg
+test_images/IMG_6724-X3.jpg: Predicted in 1740.409000 milli-seconds.
+bib: 79.833488%	left_x:  454	top_y:  379	width:   90	height:   51
+bib: 29.464722%	left_x:  608	top_y:  405	width:   62	height:   33
+End
+Start processing test_images/IMG_6736-X3.jpg
+test_images/IMG_6736-X3.jpg: Predicted in 1859.266000 milli-seconds.
+bib: 69.837250%	left_x:  465	top_y:  511	width:   64	height:   37
+End
+Start processing test_images/IMG_6738-X3.jpg
+test_images/IMG_6738-X3.jpg: Predicted in 1722.216000 milli-seconds.
+bib: 38.956722%	left_x:  773	top_y:  524	width:   93	height:   52
+End
+Start processing test_images/IMG_6741-X3.jpg
+test_images/IMG_6741-X3.jpg: Predicted in 1752.560000 milli-seconds.
+bib: 89.934967%	left_x:  749	top_y:  417	width:   91	height:   49
+End
+Start processing test_images/IMG_6743-X3.jpg
+test_images/IMG_6743-X3.jpg: Predicted in 1857.397000 milli-seconds.
+bib: 27.973085%	left_x:  649	top_y:  494	width:   91	height:   42
+End
+Start processing test_images/IMG_6746-X3.jpg
+test_images/IMG_6746-X3.jpg: Predicted in 1695.464000 milli-seconds.
+bib: 69.157150%	left_x:  839	top_y:  587	width:   54	height:   32
+End
+Start processing test_images/IMG_6747-X3.jpg
+test_images/IMG_6747-X3.jpg: Predicted in 1668.743000 milli-seconds.
+bib: 95.526299%	left_x:  775	top_y:  429	width:   91	height:   53
+End
+Start processing test_images/IMG_6748-X3.jpg
+test_images/IMG_6748-X3.jpg: Predicted in 2058.214000 milli-seconds.
+bib: 96.046539%	left_x:  764	top_y:  414	width:  104	height:   54
+End
+Start processing test_images/IMG_6749-X3.jpg
+test_images/IMG_6749-X3.jpg: Predicted in 2123.652000 milli-seconds.
+bib: 53.658630%	left_x:  742	top_y:  496	width:   73	height:   45
+End
+Start processing test_images/IMG_6751-X3.jpg
+test_images/IMG_6751-X3.jpg: Predicted in 2116.284000 milli-seconds.
+bib: 31.867678%	left_x:  750	top_y:  563	width:   63	height:   32
+End
+Start processing test_images/IMG_6754-X3.jpg
+test_images/IMG_6754-X3.jpg: Predicted in 2215.045000 milli-seconds.
+bib: 62.537045%	left_x:  716	top_y:  500	width:   89	height:   43
+End
+Start processing test_images/IMG_6759-X3.jpg
+test_images/IMG_6759-X3.jpg: Predicted in 1790.547000 milli-seconds.
+bib: 92.133919%	left_x:  621	top_y:  286	width:  106	height:   59
+End
+Start processing test_images/IMG_6760-X3.jpg
+test_images/IMG_6760-X3.jpg: Predicted in 1740.954000 milli-seconds.
+bib: 98.936974%	left_x:  628	top_y:  288	width:  123	height:   61
+End
+Start processing test_images/IMG_6763-X3.jpg
+test_images/IMG_6763-X3.jpg: Predicted in 1764.934000 milli-seconds.
+bib: 83.611359%	left_x:  555	top_y:  363	width:   94	height:   47
+bib: 60.258789%	left_x:  995	top_y:  380	width:   90	height:   44
+End
+Start processing test_images/IMG_6768-X3.jpg
+test_images/IMG_6768-X3.jpg: Predicted in 1783.035000 milli-seconds.
+bib: 93.216827%	left_x:  644	top_y:  428	width:  115	height:   53
+End
+Start processing test_images/IMG_6778-X3.jpg
+test_images/IMG_6778-X3.jpg: Predicted in 2226.919000 milli-seconds.
+bib: 95.361450%	left_x:  427	top_y:  396	width:  111	height:   61
+bib: 92.437988%	left_x:  913	top_y:  352	width:   97	height:   54
+End
+Start processing test_images/IMG_6779-X3.jpg
+test_images/IMG_6779-X3.jpg: Predicted in 2330.699000 milli-seconds.
+bib: 98.244095%	left_x:  453	top_y:  454	width:  114	height:   63
+bib: 90.712631%	left_x:  894	top_y:  349	width:  105	height:   56
+End
+Start processing test_images/IMG_6781-X3.jpg
+test_images/IMG_6781-X3.jpg: Predicted in 2173.886000 milli-seconds.
+bib: 92.059845%	left_x:  670	top_y:  415	width:   96	height:   58
+End
+Start processing test_images/IMG_6782-X3.jpg
+test_images/IMG_6782-X3.jpg: Predicted in 2128.927000 milli-seconds.
+bib: 72.948700%	left_x:  475	top_y:  333	width:   87	height:   51
+End
+Start processing test_images/IMG_6786-X3.jpg
+test_images/IMG_6786-X3.jpg: Predicted in 2169.211000 milli-seconds.
+bib: 95.972031%	left_x:  707	top_y:  436	width:   87	height:   53
+End
+Start processing test_images/IMG_6797-X3.jpg
+test_images/IMG_6797-X3.jpg: Predicted in 2222.705000 milli-seconds.
+bib: 85.079445%	left_x:  470	top_y:  474	width:   87	height:   50
+bib: 37.920998%	left_x:  772	top_y:  456	width:   88	height:   45
+End
+Start processing test_images/IMG_6798-X3.jpg
+test_images/IMG_6798-X3.jpg: Predicted in 2175.942000 milli-seconds.
+bib: 43.222775%	left_x:  557	top_y:  404	width:   61	height:   35
+bib: 39.145527%	left_x: 1001	top_y:  418	width:  104	height:   74
+End
+Start processing test_images/IMG_6799-X3.jpg
+test_images/IMG_6799-X3.jpg: Predicted in 2169.217000 milli-seconds.
+bib: 82.557022%	left_x:  568	top_y:  343	width:   77	height:   61
+bib: 89.655838%	left_x: 1117	top_y:  382	width:   84	height:   78
+End
+Start processing test_images/IMG_6802-X3.jpg
+test_images/IMG_6802-X3.jpg: Predicted in 2279.075000 milli-seconds.
+bib: 53.789677%	left_x:  328	top_y:  521	width:   72	height:   48
+bib: 50.233166%	left_x:  827	top_y:  565	width:   87	height:   41
+End
+Start processing test_images/IMG_6803-X3.jpg
+test_images/IMG_6803-X3.jpg: Predicted in 2277.107000 milli-seconds.
+bib: 50.794083%	left_x:  334	top_y:  475	width:   91	height:   40
+bib: 37.846947%	left_x:  838	top_y:  517	width:   78	height:   37
+End
+Start processing test_images/IMG_6804-X3.jpg
+test_images/IMG_6804-X3.jpg: Predicted in 2300.127000 milli-seconds.
+bib: 71.369484%	left_x:  349	top_y:  399	width:   79	height:   50
+bib: 71.053085%	left_x:  807	top_y:  435	width:   76	height:   51
+End
+Start processing test_images/IMG_6805-X3.jpg
+test_images/IMG_6805-X3.jpg: Predicted in 2280.527000 milli-seconds.
+bib: 42.537575%	left_x:  346	top_y:  436	width:   92	height:   46
+bib: 86.340973%	left_x:  806	top_y:  473	width:   92	height:   47
+End
+Start processing test_images/IMG_6808-X3.jpg
+test_images/IMG_6808-X3.jpg: Predicted in 2279.485000 milli-seconds.
+bib: 70.009872%	left_x:  643	top_y:  461	width:   91	height:   50
+End
+Start processing test_images/IMG_6809-X3.jpg
+test_images/IMG_6809-X3.jpg: Predicted in 2251.778000 milli-seconds.
+bib: 61.848618%	left_x:  735	top_y:  434	width:   76	height:   58
+End
+Start processing test_images/IMG_6811-X3.jpg
+test_images/IMG_6811-X3.jpg: Predicted in 2356.169000 milli-seconds.
+bib: 51.033665%	left_x:  420	top_y:  466	width:   58	height:   36
+bib: 99.118324%	left_x:  693	top_y:  293	width:  123	height:   58
+End
+Start processing test_images/IMG_6813-X3.jpg
+test_images/IMG_6813-X3.jpg: Predicted in 2285.693000 milli-seconds.
+bib: 69.319588%	left_x:  415	top_y:  419	width:   76	height:   56
+bib: 89.437012%	left_x:  960	top_y:  243	width:  106	height:   70
+End
+Start processing test_images/IMG_6814-X3.jpg
+test_images/IMG_6814-X3.jpg: Predicted in 2227.922000 milli-seconds.
+bib: 89.067917%	left_x:  502	top_y:  390	width:   74	height:   53
+End
+Start processing test_images/IMG_6823-X3.jpg
+test_images/IMG_6823-X3.jpg: Predicted in 2279.915000 milli-seconds.
+bib: 88.080582%	left_x:  796	top_y:  402	width:   94	height:   52
+End
+Start processing test_images/IMG_6824-X3.jpg
+test_images/IMG_6824-X3.jpg: Predicted in 2246.475000 milli-seconds.
+bib: 61.445152%	left_x:  412	top_y:  428	width:   68	height:   38
+bib: 91.394737%	left_x:  879	top_y:  415	width:   96	height:   56
+End
+Start processing test_images/IMG_6843-X3.jpg
+test_images/IMG_6843-X3.jpg: Predicted in 2290.141000 milli-seconds.
+bib: 56.901466%	left_x:  513	top_y:  393	width:   91	height:   50
+bib: 91.476837%	left_x:  951	top_y:  272	width:  111	height:   66
+End
+Start processing test_images/IMG_6848-X3.jpg
+test_images/IMG_6848-X3.jpg: Predicted in 2274.482000 milli-seconds.
+bib: 93.106743%	left_x:  499	top_y:  376	width:  101	height:   58
+End
+Start processing test_images/IMG_6854-X3.jpg
+test_images/IMG_6854-X3.jpg: Predicted in 2266.725000 milli-seconds.
+bib: 63.693184%	left_x:  857	top_y:  432	width:   87	height:   44
+End
+Start processing test_images/IMG_6860-X3.jpg
+test_images/IMG_6860-X3.jpg: Predicted in 2301.680000 milli-seconds.
+bib: 84.025864%	left_x:  248	top_y:  486	width:   90	height:   47
+End
+Start processing test_images/IMG_6868-X3.jpg
+test_images/IMG_6868-X3.jpg: Predicted in 2259.984000 milli-seconds.
+bib: 87.426163%	left_x:  600	top_y:  431	width:   99	height:   53
+End
+Start processing test_images/IMG_6869-X3.jpg
+test_images/IMG_6869-X3.jpg: Predicted in 2399.477000 milli-seconds.
+bib: 74.148567%	left_x:  600	top_y:  358	width:  101	height:   57
+End
+Start processing test_images/IMG_6870-X3.jpg
+test_images/IMG_6870-X3.jpg: Predicted in 2493.791000 milli-seconds.
+bib: 79.198006%	left_x:  479	top_y:  453	width:   75	height:   50
+bib: 60.844006%	left_x:  787	top_y:  485	width:   52	height:   34
+End
+Start processing test_images/IMG_6872-X3.jpg
+test_images/IMG_6872-X3.jpg: Predicted in 2896.040000 milli-seconds.
+bib: 48.622482%	left_x:  480	top_y:  390	width:   71	height:   49
+bib: 89.081528%	left_x:  717	top_y:  395	width:   86	height:   55
+End
+Start processing test_images/IMG_6873-X3.jpg
+test_images/IMG_6873-X3.jpg: Predicted in 2262.598000 milli-seconds.
+bib: 82.478561%	left_x:  499	top_y:  411	width:   90	height:   48
+bib: 77.195091%	left_x:  864	top_y:  369	width:   88	height:   60
+End
+Start processing test_images/IMG_6875-X3.jpg
+test_images/IMG_6875-X3.jpg: Predicted in 2283.038000 milli-seconds.
+bib: 64.372513%	left_x:  499	top_y:  416	width:   95	height:   44
+End
+Start processing test_images/IMG_6876-X3.jpg
+test_images/IMG_6876-X3.jpg: Predicted in 2248.550000 milli-seconds.
+bib: 91.569351%	left_x:  495	top_y:  348	width:   93	height:   51
+End
+Start processing test_images/IMG_6877-X3.jpg
+test_images/IMG_6877-X3.jpg: Predicted in 2356.734000 milli-seconds.
+bib: 83.519913%	left_x:  182	top_y:  431	width:   88	height:   52
+bib: 95.879814%	left_x:  680	top_y:  458	width:   99	height:   56
+End
+Start processing test_images/IMG_6883-X3.jpg
+test_images/IMG_6883-X3.jpg: Predicted in 2340.135000 milli-seconds.
+bib: 71.067337%	left_x:  452	top_y:  422	width:   91	height:   53
+End
+Start processing test_images/IMG_6892-X3.jpg
+test_images/IMG_6892-X3.jpg: Predicted in 2345.277000 milli-seconds.
+bib: 83.582893%	left_x:  691	top_y:  367	width:  101	height:   57
+End
+Start processing test_images/IMG_6895-X3.jpg
+test_images/IMG_6895-X3.jpg: Predicted in 2268.366000 milli-seconds.
+bib: 43.232441%	left_x:  351	top_y:  477	width:   76	height:   45
+End
+Start processing test_images/IMG_6897-X3.jpg
+test_images/IMG_6897-X3.jpg: Predicted in 2246.042000 milli-seconds.
+bib: 74.154793%	left_x:  412	top_y:  397	width:   76	height:   46
+bib: 73.305656%	left_x:  959	top_y:  540	width:   69	height:   46
+End
+Start processing test_images/IMG_6898-X3.jpg
+test_images/IMG_6898-X3.jpg: Predicted in 2248.194000 milli-seconds.
+bib: 93.076088%	left_x:  787	top_y:  472	width:   95	height:   56
+End
+Start processing test_images/IMG_6899-X3.jpg
+test_images/IMG_6899-X3.jpg: Predicted in 2369.566000 milli-seconds.
+bib: 95.634186%	left_x:  790	top_y:  439	width:   94	height:   55
+End
+Start processing test_images/IMG_6900-X3.jpg
+test_images/IMG_6900-X3.jpg: Predicted in 2246.420000 milli-seconds.
+bib: 79.047844%	left_x:  641	top_y:  396	width:   88	height:   49
+End
+Start processing test_images/IMG_6901-X3.jpg
+test_images/IMG_6901-X3.jpg: Predicted in 2359.698000 milli-seconds.
+bib: 95.550003%	left_x:  651	top_y:  370	width:   89	height:   55
+End
+Start processing test_images/IMG_6903-X3.jpg
+test_images/IMG_6903-X3.jpg: Predicted in 2322.555000 milli-seconds.
+bib: 81.341278%	left_x:  983	top_y:  538	width:   79	height:   60
+End
+Start processing test_images/IMG_6904-X3.jpg
+test_images/IMG_6904-X3.jpg: Predicted in 2303.184000 milli-seconds.
+bib: 91.876831%	left_x:  428	top_y:  415	width:   88	height:   48
+bib: 82.715317%	left_x:  990	top_y:  479	width:   83	height:   60
+End
+Start processing test_images/IMG_6905-X3.jpg
+test_images/IMG_6905-X3.jpg: Predicted in 2275.345000 milli-seconds.
+bib: 91.926056%	left_x: 1026	top_y:  423	width:   85	height:   72
+End
+Start processing test_images/IMG_6906-X3.jpg
+test_images/IMG_6906-X3.jpg: Predicted in 2227.072000 milli-seconds.
+bib: 59.510189%	left_x:  879	top_y:  518	width:   78	height:   46
+End
+Start processing test_images/IMG_6907-X3.jpg
+test_images/IMG_6907-X3.jpg: Predicted in 2217.731000 milli-seconds.
+bib: 60.053410%	left_x:  863	top_y:  462	width:   78	height:   46
+bib: 55.988693%	left_x:  978	top_y:  532	width:   50	height:   32
+End
+Start processing test_images/IMG_6909-X3.jpg
+test_images/IMG_6909-X3.jpg: Predicted in 2343.903000 milli-seconds.
+bib: 91.510750%	left_x:  802	top_y:  410	width:   94	height:   55
+End
+Start processing test_images/IMG_6912-X3.jpg
+test_images/IMG_6912-X3.jpg: Predicted in 2444.906000 milli-seconds.
+bib: 45.970333%	left_x:  836	top_y:  510	width:   65	height:   37
+End
+Start processing test_images/IMG_6913-X3.jpg
+test_images/IMG_6913-X3.jpg: Predicted in 2249.998000 milli-seconds.
+bib: 27.789364%	left_x:  851	top_y:  463	width:   73	height:   52
+End
+Start processing test_images/IMG_6914-X3.jpg
+test_images/IMG_6914-X3.jpg: Predicted in 2286.187000 milli-seconds.
+bib: 94.327530%	left_x:  582	top_y:  431	width:   86	height:   49
+bib: 90.827576%	left_x: 1277	top_y:  258	width:  123	height:   64
+End
+Start processing test_images/IMG_6915-X3.jpg
+test_images/IMG_6915-X3.jpg: Predicted in 2295.020000 milli-seconds.
+bib: 95.789879%	left_x:  543	top_y:  437	width:  102	height:   49
+bib: 76.767822%	left_x: 1391	top_y:  299	width:  126	height:   64
+End
+Start processing test_images/IMG_6921-X3.jpg
+test_images/IMG_6921-X3.jpg: Predicted in 2336.953000 milli-seconds.
+bib: 98.859093%	left_x:  353	top_y:  411	width:  127	height:   66
+bib: 86.587532%	left_x: 1166	top_y:  398	width:  121	height:   58
+End
+Start processing test_images/IMG_6922-X3.jpg
+test_images/IMG_6922-X3.jpg: Predicted in 2237.458000 milli-seconds.
+bib: 87.519508%	left_x:  574	top_y:  470	width:   92	height:   53
+End
+Start processing test_images/IMG_6924-X3.jpg
+test_images/IMG_6924-X3.jpg: Predicted in 2378.682000 milli-seconds.
+bib: 69.275848%	left_x:  509	top_y:  463	width:   74	height:   49
+bib: 95.746208%	left_x:  791	top_y:  445	width:   98	height:   63
+End
+Start processing test_images/IMG_6925-X3.jpg
+test_images/IMG_6925-X3.jpg: Predicted in 2254.439000 milli-seconds.
+bib: 89.824448%	left_x:  491	top_y:  487	width:   86	height:   58
+End
+Start processing test_images/IMG_6928-X3.jpg
+test_images/IMG_6928-X3.jpg: Predicted in 2302.150000 milli-seconds.
+bib: 71.381760%	left_x:  635	top_y:  503	width:   56	height:   30
+End
+Start processing test_images/IMG_6929-X3.jpg
+test_images/IMG_6929-X3.jpg: Predicted in 2302.355000 milli-seconds.
+bib: 98.076134%	left_x:  516	top_y:  419	width:  100	height:   50
+End
+Start processing test_images/IMG_6932-X3.jpg
+test_images/IMG_6932-X3.jpg: Predicted in 2322.126000 milli-seconds.
+bib: 45.190338%	left_x:  496	top_y:  413	width:  104	height:   46
+bib: 81.078369%	left_x:  980	top_y:  384	width:   90	height:   62
+End
+Start processing test_images/IMG_6935-X3.jpg
+test_images/IMG_6935-X3.jpg: Predicted in 2293.059000 milli-seconds.
+bib: 38.906445%	left_x:  579	top_y:  447	width:   88	height:   42
+End
+Start processing test_images/IMG_6936-X3.jpg
+test_images/IMG_6936-X3.jpg: Predicted in 2269.471000 milli-seconds.
+bib: 75.603394%	left_x:  903	top_y:  364	width:   85	height:   56
+End
+Start processing test_images/IMG_6940-X3.jpg
+test_images/IMG_6940-X3.jpg: Predicted in 2311.539000 milli-seconds.
+bib: 58.026695%	left_x:  441	top_y:  410	width:   68	height:   52
+bib: 58.951210%	left_x:  917	top_y:  452	width:   66	height:   53
+End
+Start processing test_images/IMG_6945-X3.jpg
+test_images/IMG_6945-X3.jpg: Predicted in 2347.505000 milli-seconds.
+bib: 46.498539%	left_x:  566	top_y:  470	width:   57	height:   36
+End
+Start processing test_images/IMG_6946-X3.jpg
+test_images/IMG_6946-X3.jpg: Predicted in 2313.276000 milli-seconds.
+bib: 77.786598%	left_x:  574	top_y:  508	width:   66	height:   37
+End
+Start processing test_images/IMG_6950-X3.jpg
+test_images/IMG_6950-X3.jpg: Predicted in 2290.939000 milli-seconds.
+bib: 80.676819%	left_x:  636	top_y:  514	width:   57	height:   29
+End
+Start processing test_images/IMG_6951-X3.jpg
+test_images/IMG_6951-X3.jpg: Predicted in 2284.293000 milli-seconds.
+bib: 48.790257%	left_x:  463	top_y:  571	width:   48	height:   30
+bib: 65.583870%	left_x:  625	top_y:  506	width:   53	height:   29
+bib: 34.278488%	left_x:  954	top_y:  505	width:   81	height:   49
+End
+Start processing test_images/IMG_6954-X3.jpg
+test_images/IMG_6954-X3.jpg: Predicted in 2286.553000 milli-seconds.
+bib: 66.501099%	left_x:  512	top_y:  507	width:   65	height:   37
+bib: 63.657547%	left_x:  696	top_y:  458	width:   92	height:   59
+End
+Start processing test_images/IMG_6956-X3.jpg
+test_images/IMG_6956-X3.jpg: Predicted in 2280.623000 milli-seconds.
+bib: 68.352928%	left_x:  559	top_y:  477	width:   81	height:   64
+bib: 35.267223%	left_x:  789	top_y:  566	width:   66	height:   49
+End
+Start processing test_images/IMG_6958-X3.jpg
+test_images/IMG_6958-X3.jpg: Predicted in 2343.123000 milli-seconds.
+bib: 76.429527%	left_x:  312	top_y:  520	width:   57	height:   31
+bib: 57.249207%	left_x:  530	top_y:  549	width:   51	height:   29
+bib: 51.142174%	left_x:  822	top_y:  587	width:   63	height:   48
+bib: 29.713743%	left_x:  990	top_y:  559	width:   62	height:   35
+End
+Start processing test_images/IMG_6959-X3.jpg
+test_images/IMG_6959-X3.jpg: Predicted in 2253.471000 milli-seconds.
+bib: 95.698776%	left_x:  311	top_y:  412	width:   81	height:   51
+bib: 44.356987%	left_x:  483	top_y:  525	width:   61	height:   40
+End
+Start processing test_images/IMG_6963-X3.jpg
+test_images/IMG_6963-X3.jpg: Predicted in 2305.002000 milli-seconds.
+bib: 58.713978%	left_x:  362	top_y:  551	width:   69	height:   33
+bib: 37.275826%	left_x:  647	top_y:  437	width:   70	height:   35
+bib: 43.117252%	left_x:  905	top_y:  512	width:   77	height:   77
+End
+Start processing test_images/IMG_6968-X3.jpg
+test_images/IMG_6968-X3.jpg: Predicted in 2322.314000 milli-seconds.
+bib: 86.278412%	left_x:  753	top_y:  421	width:   75	height:   68
+End
+Start processing test_images/IMG_6972-X3.jpg
+test_images/IMG_6972-X3.jpg: Predicted in 2254.976000 milli-seconds.
+bib: 51.903660%	left_x:  701	top_y:  561	width:   54	height:   31
+End
+Start processing test_images/IMG_6979-X3.jpg
+test_images/IMG_6979-X3.jpg: Predicted in 2429.156000 milli-seconds.
+bib: 29.934877%	left_x:  701	top_y:  346	width:   60	height:   41
+End
+Start processing test_images/IMG_6981-X3.jpg
+test_images/IMG_6981-X3.jpg: Predicted in 2660.672000 milli-seconds.
+bib: 63.775414%	left_x:  478	top_y:  527	width:   48	height:   32
+End
+Start processing test_images/IMG_6982-X3.jpg
+test_images/IMG_6982-X3.jpg: Predicted in 2627.085000 milli-seconds.
+bib: 61.848526%	left_x:  468	top_y:  551	width:   55	height:   31
+End
+Start processing test_images/IMG_6987-X3.jpg
+test_images/IMG_6987-X3.jpg: Predicted in 2656.652000 milli-seconds.
+bib: 87.916603%	left_x:  775	top_y:  409	width:  107	height:   59
+End
+Start processing test_images/IMG_6990-X3.jpg
+test_images/IMG_6990-X3.jpg: Predicted in 2320.457000 milli-seconds.
+bib: 91.567154%	left_x:  696	top_y:  330	width:   92	height:   53
+End
+Start processing test_images/IMG_6991-X3.jpg
+test_images/IMG_6991-X3.jpg: Predicted in 2243.460000 milli-seconds.
+bib: 40.111969%	left_x:  307	top_y:  577	width:   48	height:   27
+bib: 98.905113%	left_x:  765	top_y:  350	width:  102	height:   56
+End
+Start processing test_images/IMG_6994-X3.jpg
+test_images/IMG_6994-X3.jpg: Predicted in 2266.472000 milli-seconds.
+bib: 96.328949%	left_x:  765	top_y:  391	width:   87	height:   58
+bib: 29.350386%	left_x:  916	top_y:  505	width:   67	height:   39
+bib: 71.266052%	left_x: 1246	top_y:  424	width:   70	height:   71
+End
+Start processing test_images/IMG_6999-X3.jpg
+test_images/IMG_6999-X3.jpg: Predicted in 2329.635000 milli-seconds.
+bib: 55.534428%	left_x:  587	top_y:  453	width:   67	height:   34
+bib: 55.834858%	left_x: 1018	top_y:  420	width:   76	height:   49
+End
+Start processing test_images/IMG_7000-X3.jpg
+test_images/IMG_7000-X3.jpg: Predicted in 2316.353000 milli-seconds.
+bib: 73.636429%	left_x:  683	top_y:  403	width:   88	height:   44
+End
+Start processing test_images/IMG_7005-X3.jpg
+test_images/IMG_7005-X3.jpg: Predicted in 2276.928000 milli-seconds.
+bib: 49.218296%	left_x:  553	top_y:  499	width:   71	height:   45
+End
+Start processing test_images/IMG_7007-X3.jpg
+test_images/IMG_7007-X3.jpg: Predicted in 2303.466000 milli-seconds.
+bib: 96.021263%	left_x:  650	top_y:  306	width:   91	height:   57
+End
+Start processing test_images/IMG_7009-X3.jpg
+test_images/IMG_7009-X3.jpg: Predicted in 2372.748000 milli-seconds.
+bib: 53.245388%	left_x:  484	top_y:  502	width:   73	height:   36
+End
+Start processing test_images/IMG_7015-X3.jpg
+test_images/IMG_7015-X3.jpg: Predicted in 2308.136000 milli-seconds.
+bib: 89.949638%	left_x:  956	top_y:  462	width:   78	height:   45
+End
+Start processing test_images/IMG_7017-X3.jpg
+test_images/IMG_7017-X3.jpg: Predicted in 2271.533000 milli-seconds.
+bib: 35.716240%	left_x:  486	top_y:  460	width:   88	height:   41
+bib: 89.504936%	left_x:  931	top_y:  337	width:   97	height:   53
+End
+Start processing test_images/IMG_7018-X3.jpg
+test_images/IMG_7018-X3.jpg: Predicted in 2244.802000 milli-seconds.
+bib: 60.493320%	left_x:  478	top_y:  398	width:   76	height:   53
+bib: 89.557892%	left_x:  957	top_y:  341	width:  101	height:   50
+End
+Start processing test_images/IMG_7023-X3.jpg
+test_images/IMG_7023-X3.jpg: Predicted in 2251.894000 milli-seconds.
+bib: 55.929787%	left_x:  387	top_y:  531	width:   74	height:   36
+bib: 54.477108%	left_x:  800	top_y:  466	width:   92	height:   44
+End
+Start processing test_images/IMG_7024-X3.jpg
+test_images/IMG_7024-X3.jpg: Predicted in 2307.288000 milli-seconds.
+bib: 39.697231%	left_x:  405	top_y:  476	width:   78	height:   37
+bib: 46.930603%	left_x:  828	top_y:  475	width:   87	height:   43
+End
+Start processing test_images/IMG_7029-X3.jpg
+test_images/IMG_7029-X3.jpg: Predicted in 2323.391000 milli-seconds.
+bib: 28.755981%	left_x:  573	top_y:  568	width:   62	height:   39
+End
+Start processing test_images/IMG_7030-X3.jpg
+test_images/IMG_7030-X3.jpg: Predicted in 2348.478000 milli-seconds.
+bib: 79.002647%	left_x:  594	top_y:  515	width:   76	height:   51
+End
+Start processing test_images/IMG_7033-X3.jpg
+test_images/IMG_7033-X3.jpg: Predicted in 2277.464000 milli-seconds.
+bib: 64.483734%	left_x:  422	top_y:  400	width:   73	height:   53
+bib: 45.965736%	left_x:  698	top_y:  458	width:   61	height:   38
+End
+Start processing test_images/IMG_7034-X3.jpg
+test_images/IMG_7034-X3.jpg: Predicted in 2582.610000 milli-seconds.
+bib: 74.877396%	left_x:  439	top_y:  429	width:   86	height:   53
+bib: 75.894722%	left_x:  718	top_y:  434	width:   68	height:   48
+End
+Start processing test_images/IMG_7037-X3.jpg
+test_images/IMG_7037-X3.jpg: Predicted in 2417.981000 milli-seconds.
+bib: 82.418427%	left_x:  451	top_y:  454	width:   93	height:   46
+bib: 78.351608%	left_x:  955	top_y:  465	width:   91	height:   46
+End
+Start processing test_images/IMG_7038-X3.jpg
+test_images/IMG_7038-X3.jpg: Predicted in 2304.443000 milli-seconds.
+bib: 84.665878%	left_x:  498	top_y:  452	width:   92	height:   48
+bib: 94.212189%	left_x:  990	top_y:  411	width:   92	height:   56
+End
+Start processing test_images/IMG_7042-X3.jpg
+test_images/IMG_7042-X3.jpg: Predicted in 2295.638000 milli-seconds.
+bib: 58.870934%	left_x:  873	top_y:  426	width:   80	height:   57
+End
+Start processing test_images/IMG_7045-X3.jpg
+test_images/IMG_7045-X3.jpg: Predicted in 2316.490000 milli-seconds.
+bib: 53.026909%	left_x:  956	top_y:  358	width:  101	height:   55
+End
+Start processing test_images/IMG_7046-X3.jpg
+test_images/IMG_7046-X3.jpg: Predicted in 2303.691000 milli-seconds.
+bib: 32.182510%	left_x:  637	top_y:  471	width:   59	height:   32
+bib: 82.492149%	left_x: 1000	top_y:  377	width:  103	height:   54
+End
+Start processing test_images/IMG_7050-X3.jpg
+test_images/IMG_7050-X3.jpg: Predicted in 2367.970000 milli-seconds.
+bib: 43.298019%	left_x:  823	top_y:  406	width:   67	height:   38
+bib: 74.807289%	left_x: 1079	top_y:  372	width:   94	height:   65
+End
+Start processing test_images/IMG_7061-X3.jpg
+test_images/IMG_7061-X3.jpg: Predicted in 2312.839000 milli-seconds.
+bib: 66.100677%	left_x:  417	top_y:  279	width:   99	height:   49
+bib: 86.658028%	left_x: 1059	top_y:  166	width:  104	height:   52
+End
+Start processing test_images/IMG_7063-X3.jpg
+test_images/IMG_7063-X3.jpg: Predicted in 2289.479000 milli-seconds.
+bib: 79.185066%	left_x:  672	top_y:  358	width:   90	height:   50
+End
+Start processing test_images/IMG_7064-X3.jpg
+test_images/IMG_7064-X3.jpg: Predicted in 2297.622000 milli-seconds.
+bib: 88.348221%	left_x:  710	top_y:  272	width:   84	height:   67
+End
+Start processing test_images/IMG_7068-X3.jpg
+test_images/IMG_7068-X3.jpg: Predicted in 2278.085000 milli-seconds.
+bib: 71.746605%	left_x:  869	top_y:  354	width:   80	height:   58
+End
+Start processing test_images/IMG_7069-X3.jpg
+test_images/IMG_7069-X3.jpg: Predicted in 2281.646000 milli-seconds.
+bib: 77.365532%	left_x:  356	top_y:  419	width:   53	height:   28
+bib: 75.447868%	left_x:  953	top_y:  289	width:   87	height:   60
+End
+Start processing test_images/IMG_7070-X3.jpg
+test_images/IMG_7070-X3.jpg: Predicted in 2327.647000 milli-seconds.
+bib: 76.845078%	left_x:  416	top_y:  368	width:   64	height:   36
+bib: 29.192860%	left_x:  814	top_y:  511	width:   44	height:   25
+End
+Start processing test_images/IMG_7071-X3.jpg
+test_images/IMG_7071-X3.jpg: Predicted in 2286.913000 milli-seconds.
+bib: 84.088654%	left_x:  443	top_y:  342	width:   64	height:   36
+bib: 62.439053%	left_x:  823	top_y:  484	width:   42	height:   30
+End
+Start processing test_images/IMG_7075-X3.jpg
+test_images/IMG_7075-X3.jpg: Predicted in 2303.494000 milli-seconds.
+bib: 67.350380%	left_x:  379	top_y:  384	width:   77	height:   37
+End
+Start processing test_images/IMG_7076-X3.jpg
+test_images/IMG_7076-X3.jpg: Predicted in 2356.504000 milli-seconds.
+bib: 40.074570%	left_x:  566	top_y:  355	width:   58	height:   53
+bib: 93.201538%	left_x: 1183	top_y:  257	width:  105	height:   53
+End
+Start processing test_images/IMG_7077-X3.jpg
+test_images/IMG_7077-X3.jpg: Predicted in 2275.665000 milli-seconds.
+bib: 45.005684%	left_x:  607	top_y:  357	width:   74	height:   59
+bib: 92.924500%	left_x: 1249	top_y:  301	width:   99	height:   62
+End
+Start processing test_images/IMG_7081-X3.jpg
+test_images/IMG_7081-X3.jpg: Predicted in 2307.265000 milli-seconds.
+bib: 37.808563%	left_x:  633	top_y:  483	width:   46	height:   32
+bib: 45.424644%	left_x:  770	top_y:  453	width:   69	height:   52
+End
+Start processing test_images/IMG_7082-X3.jpg
+test_images/IMG_7082-X3.jpg: Predicted in 2295.029000 milli-seconds.
+bib: 25.600124%	left_x:  378	top_y:  528	width:   49	height:   29
+bib: 53.357952%	left_x:  641	top_y:  461	width:   61	height:   39
+bib: 44.753063%	left_x:  807	top_y:  412	width:   86	height:   45
+End
+Start processing test_images/IMG_7085-X3.jpg
+test_images/IMG_7085-X3.jpg: Predicted in 2277.472000 milli-seconds.
+bib: 94.090477%	left_x:  399	top_y:  430	width:   87	height:   61
+bib: 83.046303%	left_x:  744	top_y:  325	width:   93	height:   52
+End
+Start processing test_images/IMG_7086-X3.jpg
+test_images/IMG_7086-X3.jpg: Predicted in 2336.327000 milli-seconds.
+bib: 57.956894%	left_x:  423	top_y:  420	width:   60	height:   40
+bib: 95.856361%	left_x:  709	top_y:  347	width:  100	height:   70
+bib: 89.509125%	left_x: 1045	top_y:  267	width:   86	height:   67
+End
+Start processing test_images/IMG_7091-X3.jpg
+test_images/IMG_7091-X3.jpg: Predicted in 2240.283000 milli-seconds.
+End
+Start processing test_images/IMG_7092-X3.jpg
+test_images/IMG_7092-X3.jpg: Predicted in 2340.299000 milli-seconds.
+bib: 55.530502%	left_x:  744	top_y:  535	width:   56	height:   29
+bib: 34.797962%	left_x:  960	top_y:  534	width:   56	height:   28
+End
+Start processing test_images/IMG_7099-X3.jpg
+test_images/IMG_7099-X3.jpg: Predicted in 2286.616000 milli-seconds.
+bib: 70.743271%	left_x:  572	top_y:  397	width:   94	height:   60
+End
+Start processing test_images/IMG_7100-X3.jpg
+test_images/IMG_7100-X3.jpg: Predicted in 2325.148000 milli-seconds.
+bib: 97.525414%	left_x:  612	top_y:  372	width:   87	height:   61
+bib: 40.838959%	left_x:  840	top_y:  470	width:   56	height:   39
+End
+Start processing test_images/IMG_7102-X3.jpg
+test_images/IMG_7102-X3.jpg: Predicted in 2778.266000 milli-seconds.
+bib: 93.494209%	left_x:  891	top_y:  405	width:   89	height:   72
+End
+Start processing test_images/IMG_7105-X3.jpg
+test_images/IMG_7105-X3.jpg: Predicted in 3116.474000 milli-seconds.
+bib: 34.233421%	left_x:  384	top_y:  460	width:   61	height:   40
+bib: 96.121231%	left_x:  551	top_y:  366	width:   88	height:   61
+End
+Start processing test_images/IMG_7109-X3.jpg
+test_images/IMG_7109-X3.jpg: Predicted in 2610.810000 milli-seconds.
+bib: 41.248165%	left_x:  705	top_y:  501	width:   90	height:   44
+End
+Start processing test_images/IMG_7110-X3.jpg
+test_images/IMG_7110-X3.jpg: Predicted in 3044.239000 milli-seconds.
+End
+Start processing test_images/IMG_7111-X3.jpg
+test_images/IMG_7111-X3.jpg: Predicted in 2340.219000 milli-seconds.
+bib: 73.385925%	left_x:  783	top_y:  453	width:   71	height:   57
+End
+Start processing test_images/IMG_7113-X3.jpg
+test_images/IMG_7113-X3.jpg: Predicted in 2364.921000 milli-seconds.
+bib: 97.134674%	left_x:  484	top_y:  265	width:  110	height:   56
+End
+Start processing test_images/IMG_7114-X3.jpg
+test_images/IMG_7114-X3.jpg: Predicted in 2437.615000 milli-seconds.
+bib: 91.821892%	left_x:  557	top_y:  357	width:  107	height:   57
+End
+Start processing test_images/IMG_7115-X3.jpg
+test_images/IMG_7115-X3.jpg: Predicted in 2350.835000 milli-seconds.
+bib: 98.013855%	left_x:  575	top_y:  435	width:  121	height:   62
+End
+Start processing test_images/IMG_7120-X3.jpg
+test_images/IMG_7120-X3.jpg: Predicted in 2309.660000 milli-seconds.
+bib: 96.232010%	left_x:  526	top_y:  345	width:   93	height:   56
+bib: 42.843315%	left_x:  926	top_y:  361	width:  100	height:   46
+End
+Start processing test_images/IMG_7129-X3.jpg
+test_images/IMG_7129-X3.jpg: Predicted in 2254.221000 milli-seconds.
+bib: 83.210213%	left_x:  850	top_y:  497	width:   58	height:   37
+End
+Start processing test_images/IMG_7130-X3.jpg
+test_images/IMG_7130-X3.jpg: Predicted in 2251.684000 milli-seconds.
+bib: 80.085167%	left_x:  849	top_y:  485	width:   61	height:   39
+End
+Start processing test_images/IMG_7350-X3.jpg
+test_images/IMG_7350-X3.jpg: Predicted in 2329.337000 milli-seconds.
+bib: 46.324093%	left_x:  772	top_y:  454	width:   73	height:   47
+End
+Start processing test_images/IMG_7815-X3.jpg
+test_images/IMG_7815-X3.jpg: Predicted in 2271.001000 milli-seconds.
+bib: 81.689362%	left_x:  386	top_y:  461	width:   81	height:   51
+bib: 35.675571%	left_x:  864	top_y:  387	width:   71	height:   32
+bib: 34.891937%	left_x: 1112	top_y:  411	width:   81	height:   36
+End
