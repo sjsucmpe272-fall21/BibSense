@@ -46,6 +46,11 @@ const queryImgs = (req, res) => {
     client.query(query, [argument], (error, results) => {
       if (error) {
         reject(error)
+        return
+      }
+      if (results === undefined) {
+        reject("undefined results")
+        return
       }
       resolve(results.rows);
     })
