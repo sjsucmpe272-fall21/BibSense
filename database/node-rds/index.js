@@ -13,7 +13,6 @@ app.use(function (req, res, next) {
 });
 
 app.get('/', (req, res) => {
-	// client.connect(function(err) {
 	  rds_model.getImgs()
 	  .then(response => {
 	    res.status(200).send(response);
@@ -21,7 +20,6 @@ app.get('/', (req, res) => {
 	  .catch(error => {
 	    res.status(500).send(error);
 	  });
-	// });
 });
 
 app.get('/:argument', (req, res) => {
