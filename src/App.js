@@ -1,25 +1,30 @@
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
+import Main from './components/Main';
+import Navigation from './components/Navigation/Navbar';
+import {BrowserRouter} from 'react-router-dom';
+// import Background from './components/Background';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+//App Component
+class App extends Component {
+  render() {
+    return (
+      //to route to different pages
+      <BrowserRouter>
+      {/* <div >
+        <Navigation/> 
+        </div> */}
+   
+        <div >
+        
+          <Navigation/> 
+      {/* <Background/> */}
+      
+          <Main/>
+        </div>
+      </BrowserRouter>
+    );
+  }
 }
-
+//Export the App component so that it can be used in index.js
 export default App;
