@@ -41,14 +41,14 @@ class Navbar extends Component {
               </NavLink>
             </li>
 
-            {/* <li className="nav-item ">
+            <li className="nav-item ">
               <NavLink
                 className="btn btn-light btn-outline-secondary "
                 to="/bib"
               >
                 Bib Number
               </NavLink>
-            </li> */}
+            </li>
 
             <li className="nav-item ">
               <NavLink
