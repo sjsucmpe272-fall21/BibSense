@@ -8,7 +8,7 @@
   padding: 0;
 }
 
-.container {
+.container-fluid {
   background: #000 url(http://localhost:3000/images/backg.jpg);
  
   background-size: cover;

@@ -83,7 +83,7 @@ render() {
     <>
 
       
-      <div className="container">
+      <div className="container-fluid">
           
           <div >
         <h3> Enter Event</h3>
