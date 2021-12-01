@@ -18,6 +18,7 @@ class BibDisplay extends Component {
           imgFileName: "",
           img_name: [],
           img_links: [],
+          error: null
         };
     
         this.handleChange = this.handleChange.bind(this);
@@ -92,16 +93,24 @@ class BibDisplay extends Component {
               console.log(data.map((x) => x.name));
               console.log(data);
               this.setState({ img_name: data });
-              alert("congrats")
+              this.setState({error: null});
+            
               
             })
            
         
-            ) : alert("not working")
+            ) : this.setState({ error: "Please enter a correct bib number." })
+            console.log(this.state.error)
+      }
+
+      errorHandle() {
+        return (
+          <div style={{ color:"#fff", textAlign:"center" }}>{ <h1>error</h1> }</div>
+        )
       }
     
       render() {
-        const { runners, searchValue, img_name, name } = this.state;
+        const { runners, searchValue, img_name, name,error } = this.state;
     
         return (
           <>
@@ -111,7 +120,7 @@ class BibDisplay extends Component {
             <div >
                 
                 <div >
-              <h3> Enter Bib number</h3>
+              <h3 style={{fontFamily:"Copperplate"}}> Enter your bib number</h3>
     
               <form className="form" >
                 {/* <label> Bib number </label> */}
@@ -142,12 +151,19 @@ class BibDisplay extends Component {
         </div>
         
         <div className="center">
+          
             {/* // images render  */}
           
               
               {/* //</div> <div className="card-list">  */}
+              
               <div className="row">
-                {this.state.img_name.map((link, index) => (
+                {this.state.error !== null ? 
+          <div style={{ color:"#000000", textAlign:"center", fontFamily:"Copperplate", fontSize:"25px"}}>{ error }</div> 
+          
+          : 
+                
+                this.state.img_name.map((link, index) => (
     
     
                     <div className="column" key={index} accept=".png">
@@ -163,6 +179,8 @@ class BibDisplay extends Component {
                     
                      ))}
                      </div>
+
+                     
                  </div>
     
              

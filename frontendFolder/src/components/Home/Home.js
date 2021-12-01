@@ -78,8 +78,9 @@ class Home extends Component {
     return (
       <>
         <div className="container-fluid">
-          <div className = "select-container">
-            <h3> Select an Event</h3>
+         
+            <h3 className="home-title"> Select an Event</h3>
+            <div className = "select-container">
               <Select
                 options={event_name}
                 // onChange={(option) => console.log(option.label, option.value)}
