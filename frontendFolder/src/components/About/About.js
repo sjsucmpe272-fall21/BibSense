@@ -4,13 +4,13 @@ import Background from "./Background";
 class About extends Component {
   render() {
     return (
-      <div>
-          <Background/>
+      <div className = "container-fluid2"> 
+         
         <div className="jumbotron jumbotron-fluid">
           <div className="container">
-            <h1 className="display-4" color="black">
+            <h className="display-3" color="black">
                 About
-                </h1>
+                </h>
             <p className="lead">......</p>
           </div>
         </div>

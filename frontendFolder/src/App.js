@@ -3,7 +3,6 @@ import './App.css';
 import Main from './components/Main';
 import Navigation from './components/Navigation/Navbar';
 import {BrowserRouter} from 'react-router-dom';
-import HomeBackground from './components/Home/HomeBackground';
 // import Background from './components/Background';
 
 //App Component
@@ -15,7 +14,7 @@ class App extends Component {
       {/* <div >
         <Navigation/> 
         </div> */}
-        
+
              <div >        
       
           <Navigation/> 
