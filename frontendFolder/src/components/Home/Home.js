@@ -72,7 +72,7 @@ class Home extends Component {
   }
 
   render() {
-    const { runners, searchOption, event_name, aquaticCreatures, uniq_event } =
+    const { runners, searchOption, event_name, uniq_event } =
       this.state;
 
     return (

@@ -65,14 +65,14 @@ color: rgb(2, 2, 2);
 
 }
 .home-title{
-  color: rgb(0, 0, 0);
+  color: rgb(206, 187, 187);
   font-family: "Copperplate";;
-  font-size: 40px;
+  font-size: 50px;
 }
 
 
 .title {
-  color: #000000;
+  color: #1a1b1d;
   margin-left: 30px;
 }
 .nav {
@@ -95,6 +95,11 @@ div {
   text-align: center;
   /* width: 100%; */
   margin: 0 auto;
+  }
+  .display2{
+    text-align: center;
+    /* width: 100%; */
+    margin: 0 auto;
   }
 input {
   width: 30%;
