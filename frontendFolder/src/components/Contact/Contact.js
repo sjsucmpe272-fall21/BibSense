@@ -6,10 +6,8 @@ class Contact extends Component{
         return(
             <div >
               
-                <div className="container">
-            <h style={{fontFamily:"Copperplate", fontSize:"60px"}}>Contact page</h>
+            <h1 style={{fontFamily:"Copperplate", fontSize:"60px", color: "black"}}>Contact page</h1>
             
-
             <p style={{fontFamily:"Copperplate", fontSize:"20px"}}>
            
         
@@ -17,7 +15,7 @@ class Contact extends Component{
               <a  className="btn btn-light btn-outline-success "href="https://github.com/sjsucmpe272-fall21/BibSense">Github</a>
 
             </p>
-          </div>
+          
     
             </div>
         )

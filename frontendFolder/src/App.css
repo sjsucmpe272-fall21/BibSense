@@ -10,7 +10,7 @@
 
 .container-fluid {
   background: #000 url(http://localhost:3000/images/backgroundIMG3.jpg);
- 
+
   background-size: cover;
   color: #fff;
   background-repeat: no-repeat;
@@ -19,17 +19,15 @@
   justify-content: center;
   align-items: center;
   position: relative;
-  height:100vh;
+  height: 100vh;
   /* width: 100vw; */
   text-align: center;
- margin-bottom: 50px;
- 
+  margin-bottom: 50px;
 }
-
 
 .container-fluid2 {
   background: #000 url(http://localhost:3000/images/backgroundIMG.jpg);
- 
+
   background-size: cover;
   color: #fff;
   background-repeat: no-repeat;
@@ -38,13 +36,10 @@
   justify-content: center;
   align-items: center;
   position: relative;
-  height:100vh;
+  height: 100vh;
   /* width: 100vw; */
   text-align: center;
- 
- 
 }
-
 
 /* .container {
   text-align: center;
@@ -52,24 +47,22 @@
 } */
 
 .select-container {
-width: 20%;
-height: 0%;
-text-align: center;
-justify-content: center;
-background-position: center;
-text-align: center;
-margin-left: 40%;
-margin-bottom: 50%;
-align-self: center;
-color: rgb(2, 2, 2);
-
+  width: 20%;
+  height: 0%;
+  text-align: center;
+  justify-content: center;
+  background-position: center;
+  text-align: center;
+  margin-left: 40%;
+  margin-bottom: 50%;
+  align-self: center;
+  color: rgb(2, 2, 2);
 }
-.home-title{
+.home-title {
   color: rgb(206, 187, 187);
-  font-family: "Copperplate";;
+  font-family: "Copperplate";
   font-size: 50px;
 }
-
 
 .title {
   color: #1a1b1d;
@@ -95,12 +88,12 @@ div {
   text-align: center;
   /* width: 100%; */
   margin: 0 auto;
-  }
-  .display2{
-    text-align: center;
-    /* width: 100%; */
-    margin: 0 auto;
-  }
+}
+.display2 {
+  text-align: center;
+  /* width: 100%; */
+  margin: 0 auto;
+}
 input {
   width: 30%;
   margin: 10px;
@@ -142,8 +135,6 @@ button {
 
  */
 
-
-
 .column {
   margin-top: 5px;
   float: left;
@@ -151,7 +142,7 @@ button {
   padding: 5px;
   text-align: center;
   align-self: center;
-  
+
   /* margin-bottom: 3px; */
 }
 
@@ -161,11 +152,7 @@ button {
   clear: both;
   display: table;
   margin: 5px;
- 
-  
-  
 }
-.single-image{
+.single-image {
   margin-bottom: 5px;
 }
-

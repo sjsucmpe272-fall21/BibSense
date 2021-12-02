@@ -7,7 +7,7 @@ class About extends Component {
       <div className="container-fluid2">
         <div className="jumbotron jumbotron-fluid">
           <div className="container">
-            <h style={{fontFamily:"Copperplate", fontSize:"65px"}}>About</h>
+            <h2 style={{fontFamily:"Copperplate", fontSize:"65px"}}>About</h2>
             
 
             <p style={{fontFamily:"Copperplate", fontSize:"20px"}}>
