@@ -10,9 +10,8 @@ BisSense is an automated bib number detection module for bib number recognition 
 - Feed the cropped images to Microsoft Computer Vision API to convert the image to text.
 - Push the Text data into Postgres Database
 - Use a Node.js REST API to fetch the data from database based on bib number and display it to the user in an React application. 
-<br/>
-## Persona  <br/>
 
+## Persona  <br/>
 •	Sport event photographers <br/>
 •	Runners and participants <br/>
 •	Merchandizes and event sponsor advertising <br/>
