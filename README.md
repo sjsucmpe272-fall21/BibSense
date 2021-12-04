@@ -1,33 +1,26 @@
 # BibSense
 
-## ** Runner’s Bib number tagging: Sports Event photography**
+## Abstract <br/>
 
-### Introduction to the problem statement
-
-While many underestimate what it takes to get tagged photos into email inboxes, this team identifies this as a problem statement that can be translated into a viable solution for sport event photographers to generate E-commerce. By selling the pictures, they click during the sporting events the photographers can generate a source for their income, But the only problem is to identify the participants in the photos with their personal details.
-Endurance sports like track and field, running, biking, and triathlons, should also embrace the benefits that are put forth by Machine Learning. By using Deep Learning algorithms, we can resolve the problem of tagging the runner’s photos directly to her/his email in order to promote Ecommerce for sporting event photography.
-
-### Abstract
-
-We propose an automatic system for runner’s bib number recognition in natural image collections covering sporting events such as marathons. A runner’s Bib is typically a piece of durable paper bearing a number as well as the event/sponsor logo. The Bib, usually pinned onto the shirt, is used to identify the runner among thousands of others during the event. Our system receives a set of natural images taken in the sports events and outputs the participants’ bib number, which is in turn used to map it with the Runner personal details like Email and Contact from the registration database. These Images can now be directly sent across to the Runner via email at a certain cost for each photograph.
-
-### Approach 
-
-•	EAST text Extractor + Tesseract OCR Engine <br/>
-•	Image Processing using OpenCV <br/>
-•	Segmentation using deep learning (Mask RCNN, CNN) <br/>
-•	Object Detection using deep learning <br/>
-•	Cloud-based APIs from Google (Vision), AWS (Rekognition) or Microsoft Azure: <br/>
-
-### Persona  <br/>
+BisSense is an automated bib number detection module for bib number recognition in natural image collections covering running races such as marathons. A bib number is typically a piece of durable paper or cardboard bearing a number as well as the event/sponsor logo. The bib number, usually pinned onto the competitor’s shirt, is used to identify the competitor among thousands of others during the race. Our system takes a set of images taken at sporting events as input, detects the bib numbers in the images, stores the data in the database, and outputs the images for the searched bib number. First, we use our custom YOLO (You only Look once) v3 object model to detect the location of the bib number in the image, next we crop the image and apply optical character recognition (OCR) using Microsoft’s Computer Vision API to covert the image to text. The textual data along with the image location is stored in the database, which is displayed to the end-user (typically marathon participants) in a web application upon entering his bib number.
+<br/>
+## Approach <br/>
+- Train a custom Yolo object detection Model using a collection of annotated marathon images
+- Use the above model to generate boundary boxes for bib bumbers in images and crop it
+- Feed the cropped images to Microsoft Computer Vision API to convert the image to text.
+- Push the Text data into Postgres Database
+- Use a Node.js REST API to fetch the data from database based on bib number and display it to the user in an React application. 
+<br/>
+## Persona  <br/>
 
 •	Sport event photographers <br/>
 •	Runners and participants <br/>
 •	Merchandizes and event sponsor advertising <br/>
 
+## Architecture
+![Architecture](https://github.com/sjsucmpe272-fall21/BibSense/blob/main/architecture.jpg)
+
 ### Dataset link <br/>
 https://sjsu0-my.sharepoint.com/:f:/g/personal/adarsh_narasimhamurthy_sjsu_edu/EsmfJ8uHOGtCqzoax5R8nQgBt2sDICzrEYo-DKEUPSPJaQ?e=49QtQe
 
-<br/>
-<br/>
 
