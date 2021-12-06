@@ -17,7 +17,7 @@ BisSense is an automated bib number detection module for bib number recognition 
 •	Merchandizes and event sponsor advertising <br/>
 
 ## Instance
-https://bibsens.herokuapp.com/bib
+https://bibsens.herokuapp.com/
 
 ## Architecture
 ![Architecture](https://github.com/sjsucmpe272-fall21/BibSense/blob/main/architecture.jpg)
